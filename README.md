@@ -7,7 +7,11 @@
 
 
 #To install the application :
+
   1- git clone https://github.com/mhmdsanou/calculator-react.git
+  
   2- cd calculator-react
+  
   3- npm install
+  
   4- npm start
